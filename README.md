@@ -13,7 +13,7 @@ This is my personal take on such a type of template, thus I might not use the
 best practices or you might disagree with how I do things. Any and all feedback
 is greatly appreciated!
 
-## Features
+## Features 
 
 * Modern **CMake** configuration and project, which, to the best of my
 knowledge, uses the best practices,
